@@ -31,8 +31,8 @@ export function MyGrid() {
           </div>
         </div>
       </main>
-      <footer className={styles.footer} /> {/* Footer verde */}
-      <footer className={styles.footer2} /> {/* Footer rosa - está por último */}
+      <footer className={styles.footer} />
+      <footer className={styles.footer2} />
     </div>
   );
 }
